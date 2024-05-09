@@ -1,4 +1,4 @@
-﻿My read me file
+My read me file
 izmenenie
 123456789
  12345
